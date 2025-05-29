@@ -1,0 +1,20 @@
+title: <p align="center"> Shyryn Ospanova </p>
+logo: "/images/placeholder-profile.png?raw=true"
+description:
+  <p align="center">
+  <br> shyryn.ospanova@example.com
+  <br> <a href="pdf/Shyryn_Ospanova_Resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/shirin-ospanova/">LinkedIn</a> |
+  <a href="https://github.com/re1null0">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I am an <b>Applied AI Researcher</b> with expertise in machine learning, NLP, and computer vision. 
+  <br>
+  I have experience in developing speech recognition systems, researching interpretability of medical imaging models, and engineering knowledge graphs for patent analysis.
+  <br>
+  My technical skills include proficiency in Python, R, MATLAB, and various machine learning frameworks like PyTorch and TensorFlow.
+  <br><br>
+  </p>
+  
+theme: jekyll-theme-minimal

@@ -5,31 +5,7 @@ layout: default
 
 ## Applied AI Researcher
 
-I am an Applied AI Researcher with expertise in machine learning, natural language processing, and computer vision. With a strong background in developing innovative AI solutions for healthcare and legal tech, I combine technical expertise with practical problem-solving skills.
-
-## Experience
-
-### Cerebra | Applied AI Researcher, Astana, Kazakhstan
-*Aug 2023 – Present*
-
-- Developed a speech recognition system for Russian and Kazakh languages, integrating RAG and custom preprocessing techniques to reduce Word Error Rate (WER) by 20%; deployed in two hospitals and enhanced clinical efficiency through scalable inference on 60 hours of data using NVIDIA Riva
-- Researched interpretability of stroke detection models with Grad-CAM++, providing generalized visual explanations for model decisions in medical imaging; augmented Latin corpus by 6000+ tokens for domain-specific vocabulary
-- Designed and trained an AttentionUNet model for tumor segmentation, achieving a 72% F1 score in detecting intracerebral hemorrhage through a custom encoder-decoder architecture
-- Led the research, development, and implementation of a multi-token prediction and shared trunk architecture for an auto-completion project aimed at supporting doctors with radiology documentation; spearheaded precise radiology scan modifications using multimodal vision-language understanding with the Qwen2-VL model
-
-### Litigence | Applied AI Researcher, Oslo, Norway
-*May 2024 – Jul 2024*
-
-- Engineered LangChain powered Knowledge Graph for 10,000+ patents for query answering and knowledge extraction
-- Developed RAG search system to streamline patent retrieval across multiple documents, effectively utilizing UMAP to reduce high-dimensional embeddings and reduced query response latency by 85% compared to semantic search
-
-### NKM Capital | Data Science in Residence, San Francisco, CA
-*Jun 2023 – Sep 2023*
-
-- Devised a strategy for deal flow pipeline by analyzing early-stage YC startups and web scraping 1,500 M&A and IPO deals, identifying key patterns and early signals to enhance data-driven decision-making and support thesis development
-- Engineered an algorithm to solve the rank aggregation problem for the portfolio company, resulting in an 8% improvement in F1 score accuracy across a multi-platform dataset (Google Reviews, Yelp, OpenTable)
-
----
+Hey, I’m Shyryn, an applied ML Engineer finishing a Systems Science & Engineering degree at Penn. I build low-latency ML pipelines—from clinical speech-to-text and patent-search RAG systems to real-time perception and control stacks for autonomous robots. My work has shipped in hospitals, sped up 3-D digital-twin reconstruction 20×, and earned IEEE and Nature publications. I love turning research ideas into production-ready tools that stay fast, interpretable, and reliable.
 
 ## Projects
 
@@ -136,6 +112,29 @@ Produced the first public curriculum on Neural Networks and Computer Vision (Ope
 </div>
 
 ---
+## Experience
+
+### Cerebra | Applied AI Researcher, Astana, Kazakhstan
+*Aug 2023 – Present*
+
+- Developed a speech recognition system for Russian and Kazakh languages, integrating RAG and custom preprocessing techniques to reduce Word Error Rate (WER) by 20%; deployed in two hospitals and enhanced clinical efficiency through scalable inference on 60 hours of data using NVIDIA Riva
+- Researched interpretability of stroke detection models with Grad-CAM++, providing generalized visual explanations for model decisions in medical imaging; augmented Latin corpus by 6000+ tokens for domain-specific vocabulary
+- Designed and trained an AttentionUNet model for tumor segmentation, achieving a 72% F1 score in detecting intracerebral hemorrhage through a custom encoder-decoder architecture
+- Led the research, development, and implementation of a multi-token prediction and shared trunk architecture for an auto-completion project aimed at supporting doctors with radiology documentation; spearheaded precise radiology scan modifications using multimodal vision-language understanding with the Qwen2-VL model
+
+### Litigence | Applied AI Researcher, Oslo, Norway
+*May 2024 – Jul 2024*
+
+- Engineered LangChain powered Knowledge Graph for 10,000+ patents for query answering and knowledge extraction
+- Developed RAG search system to streamline patent retrieval across multiple documents, effectively utilizing UMAP to reduce high-dimensional embeddings and reduced query response latency by 85% compared to semantic search
+
+### NKM Capital | Data Science in Residence, San Francisco, CA
+*Jun 2023 – Sep 2023*
+
+- Devised a strategy for deal flow pipeline by analyzing early-stage YC startups and web scraping 1,500 M&A and IPO deals, identifying key patterns and early signals to enhance data-driven decision-making and support thesis development
+- Engineered an algorithm to solve the rank aggregation problem for the portfolio company, resulting in an 8% improvement in F1 score accuracy across a multi-platform dataset (Google Reviews, Yelp, OpenTable)
+
+---
 
 ## Research Experience
 
@@ -160,5 +159,6 @@ Produced the first public curriculum on Neural Networks and Computer Vision (Ope
 **Industry Knowledge:** Machine Learning, NLP, Computer Vision, Statistical Analysis, Knowledge Graphs, Neural Networks, CNN, RNN, Foundation Models, Generative AI, Data Pipeline Development, Deep Learning, Data Engineering, LLMs
 
 **Technologies/Frameworks:** PyTorch, Git, TensorFlow, REST API, Pandas, AWS, NumPy, HuggingFace, ROS, JAX, CUDA
+Outside of work, you’ll usually find me behind a camera lens, and training for another marathon.
 
 <center>© 2025 Shyryn Ospanova. Powered by Jekyll and the Minimal Theme.</center>

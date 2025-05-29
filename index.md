@@ -97,6 +97,47 @@ Engineered GPU-accelerated camera-based 3D reconstruction to deliver on-site dig
 *Python, OpenCV, YOLO*
 
 Produced the first public curriculum on Neural Networks and Computer Vision (OpenCV) for 500+ learners. Designed presentations and devised scripts for over 15 YouTube video-lessons with 7500+ views.
+<style>
+.playlist-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.playlist-item {
+  flex: 1;
+  min-width: 300px;
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+}
+
+.playlist-item iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+@media (max-width: 768px) {
+  .playlist-item {
+    flex: 100%;
+  }
+}
+</style>
+
+<div class="playlist-container">
+  <div class="playlist-item">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLVFGVo0DNh5cAH3Cb0cl9ruli4RNNtaSF" title="YouTube playlist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  
+  <div class="playlist-item">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLVFGVo0DNh5duhps6KsiCQIoObyzcM2Cs" title="YouTube playlist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</div>
 
 ---
 

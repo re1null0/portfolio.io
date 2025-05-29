@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-title: "Shyryn Ospanova"
 # Shyryn Ospanova
 
 ## Applied AI Researcher

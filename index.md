@@ -3,8 +3,6 @@ layout: default
 ---
 # Shyryn Ospanova
 
-## Applied AI Researcher
-
 Hey, I’m Shyryn, an applied ML Engineer finishing a Systems Science & Engineering degree at Penn. I build low-latency ML pipelines—from clinical speech-to-text and patent-search RAG systems to real-time perception and control stacks for autonomous robots. My work has shipped in hospitals, sped up 3-D digital-twin reconstruction 20×, and earned IEEE and Nature publications. I love turning research ideas into production-ready tools that stay fast, interpretable, and reliable.
 
 ## Projects

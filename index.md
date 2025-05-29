@@ -39,6 +39,7 @@ I am an Applied AI Researcher with expertise in machine learning, natural langua
 *Python, PyTorch, CUDA, ROS2*
 
 Extended 1D-CNN TinyLidarNet with a bidirectional LSTM + self-attention module, lifting lap-completion reliability from 30–78% to 100% on F1TENTH tracks and cutting average lap times by 11%. Quantized to TFLite INT8 (XNNPACK) and TensorRT FP16, achieving < 3 ms CPU and < 0.6 ms GPU inference while maintaining full generalization across novel tracks.
+
 <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/faTilMYMT5o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

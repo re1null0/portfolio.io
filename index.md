@@ -109,7 +109,7 @@ Produced the first public curriculum on Neural Networks and Computer Vision (Ope
 ---
 ## Experience
 
-### Cerebra | Applied AI Researcher, Astana, Kazakhstan
+### Cerebra | Applied AI Researcher
 *Aug 2023 – Present*
 
 - Developed a speech recognition system for Russian and Kazakh languages, integrating RAG and custom preprocessing techniques to reduce Word Error Rate (WER) by 20%; deployed in two hospitals and enhanced clinical efficiency through scalable inference on 60 hours of data using NVIDIA Riva
@@ -117,13 +117,13 @@ Produced the first public curriculum on Neural Networks and Computer Vision (Ope
 - Designed and trained an AttentionUNet model for tumor segmentation, achieving a 72% F1 score in detecting intracerebral hemorrhage through a custom encoder-decoder architecture
 - Led the research, development, and implementation of a multi-token prediction and shared trunk architecture for an auto-completion project aimed at supporting doctors with radiology documentation; spearheaded precise radiology scan modifications using multimodal vision-language understanding with the Qwen2-VL model
 
-### Litigence | Applied AI Researcher, Oslo, Norway
+### Litigence | Applied AI Researcher
 *May 2024 – Jul 2024*
 
 - Engineered LangChain powered Knowledge Graph for 10,000+ patents for query answering and knowledge extraction
 - Developed RAG search system to streamline patent retrieval across multiple documents, effectively utilizing UMAP to reduce high-dimensional embeddings and reduced query response latency by 85% compared to semantic search
 
-### NKM Capital | Data Science in Residence, San Francisco, CA
+### NKM Capital | Data Science in Residence
 *Jun 2023 – Sep 2023*
 
 - Devised a strategy for deal flow pipeline by analyzing early-stage YC startups and web scraping 1,500 M&A and IPO deals, identifying key patterns and early signals to enhance data-driven decision-making and support thesis development
@@ -133,13 +133,13 @@ Produced the first public curriculum on Neural Networks and Computer Vision (Ope
 
 ## Research Experience
 
-### Institute of Smart Systems and Artificial Intelligence | Research Intern, Astana, Kazakhstan
+### Institute of Smart Systems and Artificial Intelligence | Research Intern
 *Jun 2021 – Aug 2021*
 
 - Simulated vaccination policies using agent-based modeling to identify the most effective strategies for reducing disease transmission; modeled sterilizing and effective immunization outcomes by adding 4 new SEIR states
 - Published paper in IEEE titled "A Vaccination Simulator for COVID-19: Effective and Sterilizing Immunization Cases"
 
-### Yale School of Medicine | Research Assistant, New Haven, CT
+### Yale School of Medicine | Research Assistant
 *Jul 2020 – Jun 2021*
 
 - Developed analysis on lung cancer survivability with 94% accuracy; implemented a novel approach to incorporate quantitative and qualitative multivariate analysis using Python and TCGA on 20 Gigabytes PET/CT scans, leading to significant differentiation between lung squamous cell carcinoma and adenocarcinoma

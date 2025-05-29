@@ -46,8 +46,26 @@ Extended 1D-CNN TinyLidarNet with a bidirectional LSTM + self-attention module, 
 
 Engineered GPU-accelerated camera-based 3D reconstruction to deliver on-site digital twins in <1 s (20× faster vs. dust3r); fused LiDAR + camera for SLAM mapping; utilized RL wildfire-spread model to generate real-time threat maps, boosting unburned-area preservation to 70.15% from 11.76%.
 <div class="video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=98ngpQQqQg4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/98ngpQQqQg4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  margin-bottom: 20px;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
 
 ### Beyond School
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/re1null0)

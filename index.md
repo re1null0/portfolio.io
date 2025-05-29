@@ -154,6 +154,8 @@ Produced the first public curriculum on Neural Networks and Computer Vision (Ope
 **Industry Knowledge:** Machine Learning, NLP, Computer Vision, Statistical Analysis, Knowledge Graphs, Neural Networks, CNN, RNN, Foundation Models, Generative AI, Data Pipeline Development, Deep Learning, Data Engineering, LLMs
 
 **Technologies/Frameworks:** PyTorch, Git, TensorFlow, REST API, Pandas, AWS, NumPy, HuggingFace, ROS, JAX, CUDA
+
+
 Outside of work, you’ll usually find me behind a camera lens, and training for another marathon.
 
 <center>© 2025 Shyryn Ospanova. Powered by Jekyll and the Minimal Theme.</center>

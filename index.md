@@ -8,7 +8,7 @@ layout: default
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/re1null0)
 *Python, PyTorch, CUDA, ROS2*
 
-Extended 1D-CNN TinyLidarNet with a bidirectional LSTM + self-attention module, lifting lap-completion reliability from 30–78% to 100% on F1TENTH tracks and cutting average lap times by 11%. Quantized to TFLite INT8 (XNNPACK) and TensorRT FP16, achieving < 3 ms CPU and < 0.6 ms GPU inference while maintaining full generalization across novel tracks.
+Extended 1D-CNN TinyLidarNet with a bidirectional LSTM + self-attention module, lifting lap-completion reliability from 30–78% to 90% on F1TENTH tracks and cutting average lap times by 11%. Quantized to TFLite INT8 (XNNPACK) and TensorRT FP16, achieving < 3 ms CPU and < 0.6 ms GPU inference while maintaining full generalization across novel tracks.
 
 <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/faTilMYMT5o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -105,6 +105,28 @@ Produced the first public curriculum on Neural Networks and Computer Vision (Ope
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLVFGVo0DNh5duhps6KsiCQIoObyzcM2Cs" title="YouTube playlist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
+---
+
+## Research Experience
+
+### Institute of Smart Systems and Artificial Intelligence | Research Intern
+*Jun 2021 – Aug 2021*
+
+- Simulated vaccination policies using agent-based modeling to identify the most effective strategies for reducing disease transmission; modeled sterilizing and effective immunization outcomes by adding 4 new SEIR states
+- Published paper in IEEE titled "A Vaccination Simulator for COVID-19: Effective and Sterilizing Immunization Cases"
+<details>
+  <summary>📄 Preview the paper</summary>
+  <iframe 
+    src="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9542855" 
+    width="100%" height="500px" style="border:1px solid #ccc;">
+  </iframe>
+</details>
+
+### Yale School of Medicine | Research Assistant
+*Jul 2020 – Jun 2021*
+
+- Developed analysis on lung cancer survivability with 94% accuracy; implemented a novel approach to incorporate quantitative and qualitative multivariate analysis using Python and TCGA on 20 Gigabytes PET/CT scans, leading to significant differentiation between lung squamous cell carcinoma and adenocarcinoma
+- Published findings in Nature and PLOS One, focusing on differential immuno-metabolic crosstalk in lung cancer types and carnitine palmitoyltransferase-1 impact on breast cancer prognosis
 
 ---
 ## Experience
@@ -128,22 +150,6 @@ Produced the first public curriculum on Neural Networks and Computer Vision (Ope
 
 - Devised a strategy for deal flow pipeline by analyzing early-stage YC startups and web scraping 1,500 M&A and IPO deals, identifying key patterns and early signals to enhance data-driven decision-making and support thesis development
 - Engineered an algorithm to solve the rank aggregation problem for the portfolio company, resulting in an 8% improvement in F1 score accuracy across a multi-platform dataset (Google Reviews, Yelp, OpenTable)
-
----
-
-## Research Experience
-
-### Institute of Smart Systems and Artificial Intelligence | Research Intern
-*Jun 2021 – Aug 2021*
-
-- Simulated vaccination policies using agent-based modeling to identify the most effective strategies for reducing disease transmission; modeled sterilizing and effective immunization outcomes by adding 4 new SEIR states
-- Published paper in IEEE titled "A Vaccination Simulator for COVID-19: Effective and Sterilizing Immunization Cases"
-
-### Yale School of Medicine | Research Assistant
-*Jul 2020 – Jun 2021*
-
-- Developed analysis on lung cancer survivability with 94% accuracy; implemented a novel approach to incorporate quantitative and qualitative multivariate analysis using Python and TCGA on 20 Gigabytes PET/CT scans, leading to significant differentiation between lung squamous cell carcinoma and adenocarcinoma
-- Published findings in Nature and PLOS One, focusing on differential immuno-metabolic crosstalk in lung cancer types and carnitine palmitoyltransferase-1 impact on breast cancer prognosis
 
 ---
 

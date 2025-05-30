@@ -151,6 +151,55 @@ Produced the first public curriculum on Neural Networks and Computer Vision (Ope
 
 </div>
 
+<style>/* Add to your main stylesheet (e.g. assets/css/main.scss) */
+.publications {
+  display: grid;
+  row-gap: 2rem;
+  margin-top: 1rem;
+}
+
+.pub-entry {
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #eee;
+}
+
+.pub-entry .badge {
+  display: inline-block;
+  background: #4a148c;
+  color: white;
+  padding: 0.1em 0.6em;
+  font-size: 0.75rem;
+  border-radius: 3px;
+  text-transform: uppercase;
+  margin-bottom: 0.4rem;
+}
+
+.pub-entry h3 {
+  margin: 0.2em 0;
+  font-size: 1.1rem;
+}
+
+.pub-entry p {
+  margin: 0.2em 0;
+  color: #555;
+}
+
+.pub-entry .btn {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.3em 0.8em;
+  border: 1px solid #555;
+  border-radius: 3px;
+  font-size: 0.85rem;
+  text-decoration: none;
+  color: #555;
+}
+
+.pub-entry .btn:hover {
+  background: #f5f5f5;
+}
+</style>
+
 ---
 ## Experience
 

@@ -53,8 +53,6 @@ body {
   background-color: rgba(0, 122, 204, 0.2);
   color: #005999;
 }
-</style>
-
 /* Optional: Highlight the current section in nav as you scroll */
 <script>
   document.addEventListener('DOMContentLoaded', () => {
@@ -75,6 +73,9 @@ body {
     activateLink();
   });
 </script>
+</style>
+
+
 
 ## Projects {#projects}
 
@@ -132,7 +133,7 @@ Engineered GPU-accelerated camera-based 3D reconstruction to deliver on-site dig
   height: 100%;
 }
 </style>
-
+https://youtu.be/_u5AkwzfRfo
 ### Beyond School
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/re1null0)
 *Python, OpenCV, YOLO*

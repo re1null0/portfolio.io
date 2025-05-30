@@ -338,51 +338,10 @@ Produced the first public curriculum on Neural Networks and Computer Vision (Ope
 
 ## Skills {#skills}
 
-### Programming Languages  
-- **Python** (advanced scripting, OOP, packaging)  
-- **R**, **MATLAB** (statistical analysis, simulation)  
-- **Java**
-- **SQL** (PostgreSQL, MySQL),
-- **HTML/CSS**, **JavaScript** (lightweight dashboards)
-
----
-
-### Machine Learning & Data Science  
-- **Algorithms:** supervised & unsupervised learning, time-series forecasting, statistical modeling  
-- **Core ML:** Scikit-learn, Pandas, NumPy, SciPy  
-- **Techniques:** CNNs, RNNs/LSTMs, Attention & Transformer architectures, Agent-Based Modeling  
-
----
-
-### Deep Learning & Computer Vision  
-- **Frameworks:** PyTorch, TensorFlow, JAX, CUDA (GPU optimization)  
-- **Vision:** OpenCV, YOLO, SLAM, 3D reconstruction, Attention-UNet segmentation  
-
----
-
-### Natural Language & Knowledge Systems  
-- **NLP:** ASR pipelines, tokenization, sequence-to-sequence modeling  
-- **Knowledge:** RAG (Retrieval-Augmented Generation), LangChain, knowledge graphs, semantic search  
-- **Libraries:** Hugging Face Transformers, SpaCy  
-
----
-
-### Robotics & Control  
-- **Middleware:** ROS2, msg handling, launch files  
-- **Control:** Model Predictive Control, real-time sensor fusion (LiDAR + IMU + camera)  
-
----
-
-### Cloud, DevOps & MLOps  
-- **Cloud:** serverless deployments  
-- **Containers & CI/CD:** Docker, GitHub Actions, REST API design  
-- **Version Control:** Git, GitHub (branching strategies, code reviews)
-
----
-
-### Collaboration & Communication  
-- Agile/Scrum workflows, technical documentation  
-- Conference presentations & academic writing (IEEE, Nature, PLOS One)
+- **Programming & DevOps:** Python, R, MATLAB, Java, SQL/NoSQL, HTML/CSS; Git, Docker, GitHub Actions, AWS (EC2/S3/Lambda), REST APIs  
+- **Machine Learning & AI:** PyTorch, TensorFlow, JAX, Scikit-learn, Hugging Face; CNNs, RNNs/LSTMs, Transformer architectures, agent-based & reinforcement modeling  
+- **Computer Vision & Robotics:** OpenCV, YOLO, SLAM, real-time 3D reconstruction, Attention-UNet segmentation; ROS2, CVXPY/OSQP for Model Predictive Control, LiDAR + IMU + camera fusion  
+- **NLP & Knowledge Systems:** Clinical ASR pipelines, tokenization, Retrieval-Augmented Generation (RAG), LangChain, knowledge graphs, semantic search
 
 ---
 

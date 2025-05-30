@@ -138,13 +138,8 @@ Engineered GPU-accelerated camera-based 3D reconstruction to deliver on-site dig
 Implemented a real-time MPC planner that linearizes & discretizes a kinematic bicycle model over a finite horizon to track spline waypoints with minimal tracking error, smooth control effort, and hard actuator limits. The QP minimizes:
 - Deviation from reference (terminal & running weights)  
 - Control magnitude  
-- Inter-step control variations  
-
-Subject to:
-- Linearized dynamics \(z_{t+1} = A z_t + B u_t + C\)  
-- Initial state matching current pose  
-- Acceleration & steering bounds  
-
+- Inter-step control variations
+- 
 Visualization in simulation shows both the reference segment and MPC-predicted rollout.
 
 <iframe
@@ -157,7 +152,24 @@ Visualization in simulation shows both the reference segment and MPC-predicted r
   allowfullscreen>
 </iframe>
 
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  margin-bottom: 20px;
+}
 
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
 
 
 ### Beyond School

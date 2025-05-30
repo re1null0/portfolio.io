@@ -345,6 +345,6 @@ Produced the first public curriculum on Neural Networks and Computer Vision (Ope
 
 ---
 
-> **Outside of work:** You’ll usually find me behind a camera lens practicing street photography or logging miles training for my next marathon.  
+> **Outside of work:** You’ll usually find me behind a camera lens or training for my next marathon.
 
 <center>© 2025 Shyryn Ospanova. Powered by Jekyll and the Minimal Theme.</center>

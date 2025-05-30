@@ -80,7 +80,6 @@ body {
 ## Projects {#projects}
 
 ### Recurrent LidarNet
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/re1null0)
 *Python, PyTorch, CUDA, ROS2*
 
 Extended 1D-CNN TinyLidarNet with a bidirectional LSTM + self-attention module, lifting lap-completion reliability from 30–78% to 90% on F1TENTH tracks and cutting average lap times by 11%. Quantized to TFLite INT8 (XNNPACK) and TensorRT FP16, achieving < 3 ms CPU and < 0.6 ms GPU inference while maintaining full generalization across novel tracks.
@@ -108,7 +107,6 @@ Extended 1D-CNN TinyLidarNet with a bidirectional LSTM + self-attention module, 
 </style>
 
 ### AirTwin
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/re1null0)
 *Python, YOLO5, Point Cloud Processing, OpenCV, PyTorch, dust3r*
 
 Engineered GPU-accelerated camera-based 3D reconstruction to deliver on-site digital twins in <1 s (20× faster vs. dust3r); fused LiDAR + camera for SLAM mapping; utilized RL wildfire-spread model to generate real-time threat maps, boosting unburned-area preservation to 70.15% from 11.76%.
@@ -133,9 +131,33 @@ Engineered GPU-accelerated camera-based 3D reconstruction to deliver on-site dig
   height: 100%;
 }
 </style>
-https://youtu.be/_u5AkwzfRfo
+
+### Model Predictive Control
+*Python, CVXPY, OSQP, ROS2, NumPy*  
+
+Implemented a real-time MPC planner that linearizes & discretizes a kinematic bicycle model over a finite horizon to track spline waypoints with minimal tracking error, smooth control effort, and hard actuator limits. The QP minimizes:
+- Deviation from reference (terminal & running weights)  
+- Control magnitude  
+- Inter-step control variations  
+
+Subject to:
+- Linearized dynamics \(z_{t+1} = A z_t + B u_t + C\)  
+- Initial state matching current pose  
+- Acceleration & steering bounds  
+
+Visualization in simulation shows both the reference segment and MPC-predicted rollout.
+
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/_u5AkwzfRfo"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
 ### Beyond School
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/re1null0)
 *Python, OpenCV, YOLO*
 
 Produced the first public curriculum on Neural Networks and Computer Vision (OpenCV) for 500+ learners. Designed presentations and devised scripts for over 15 YouTube video-lessons with 7500+ views.

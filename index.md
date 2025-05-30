@@ -326,13 +326,54 @@ Produced the first public curriculum on Neural Networks and Computer Vision (Ope
 
 ## Skills {#skills}
 
-**Languages:** Python, R, MATLAB, NoSQL, SQL, HTML/CSS, Java
+### Programming Languages  
+- **Python** (advanced scripting, OOP, packaging)  
+- **R**, **MATLAB** (statistical analysis, simulation)  
+- **Java**
+- **SQL** (PostgreSQL, MySQL),
+- **HTML/CSS**, **JavaScript** (lightweight dashboards)
 
-**Industry Knowledge:** Machine Learning, NLP, Computer Vision, Statistical Analysis, Knowledge Graphs, Neural Networks, CNN, RNN, Foundation Models, Generative AI, Data Pipeline Development, Deep Learning, Data Engineering, LLMs
+---
 
-**Technologies/Frameworks:** PyTorch, Git, TensorFlow, REST API, Pandas, AWS, NumPy, HuggingFace, ROS, JAX, CUDA
+### Machine Learning & Data Science  
+- **Algorithms:** supervised & unsupervised learning, time-series forecasting, statistical modeling  
+- **Core ML:** Scikit-learn, Pandas, NumPy, SciPy  
+- **Techniques:** CNNs, RNNs/LSTMs, Attention & Transformer architectures, Agent-Based Modeling  
 
+---
 
-Outside of work, you’ll usually find me behind a camera lens, and training for another marathon.
+### Deep Learning & Computer Vision  
+- **Frameworks:** PyTorch, TensorFlow, JAX, CUDA (GPU optimization)  
+- **Vision:** OpenCV, YOLO, SLAM, 3D reconstruction, Attention-UNet segmentation  
+
+---
+
+### Natural Language & Knowledge Systems  
+- **NLP:** ASR pipelines, tokenization, sequence-to-sequence modeling  
+- **Knowledge:** RAG (Retrieval-Augmented Generation), LangChain, knowledge graphs, semantic search  
+- **Libraries:** Hugging Face Transformers, SpaCy  
+
+---
+
+### Robotics & Control  
+- **Middleware:** ROS2, msg handling, launch files  
+- **Control:** Model Predictive Control, real-time sensor fusion (LiDAR + IMU + camera)  
+
+---
+
+### Cloud, DevOps & MLOps  
+- **Cloud:** serverless deployments  
+- **Containers & CI/CD:** Docker, GitHub Actions, REST API design  
+- **Version Control:** Git, GitHub (branching strategies, code reviews)
+
+---
+
+### Collaboration & Communication  
+- Agile/Scrum workflows, technical documentation  
+- Conference presentations & academic writing (IEEE, Nature, PLOS One)
+
+---
+
+> **Outside of work:** You’ll usually find me behind a camera lens practicing street photography or logging miles training for my next marathon.  
 
 <center>© 2025 Shyryn Ospanova. Powered by Jekyll and the Minimal Theme.</center>

@@ -5,7 +5,7 @@ layout: default
   <a href="#projects">Projects</a> ·
   <a href="#research">Research Experience</a> ·
   <a href="#pubs">Publications</a> ·
-  <a href="#work">Experience</a> ·
+  <a href="#work">Industry Experience</a> ·
   <a href="#skills">Skills</a>
 </nav>
 <style>/* 1. Smooth scrolling for in‐page anchors */

@@ -113,25 +113,43 @@ Produced the first public curriculum on Neural Networks and Computer Vision (Ope
 *Jun 2021 – Aug 2021*
 
 - Simulated vaccination policies using agent-based modeling to identify the most effective strategies for reducing disease transmission; modeled sterilizing and effective immunization outcomes by adding 4 new SEIR states
-- Published paper “[A Vaccination Simulator for COVID-19…](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9542855)”
 
-<details>
-  <summary>📄 Preview the paper</summary>
-  <div style="margin-top:1em;">
-    <iframe
-      src="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9542855"
-      width="100%"
-      height="600"
-      style="border:1px solid #ccc;">
-    </iframe>
-  </div>
-</details>
 
 ### Yale School of Medicine | Research Assistant
 *Jul 2020 – Jun 2021*
 
 - Developed analysis on lung cancer survivability with 94% accuracy; implemented a novel approach to incorporate quantitative and qualitative multivariate analysis using Python and TCGA on 20 Gigabytes PET/CT scans, leading to significant differentiation between lung squamous cell carcinoma and adenocarcinoma
-- Published findings in Nature and PLOS One, focusing on differential immuno-metabolic crosstalk in lung cancer types and carnitine palmitoyltransferase-1 impact on breast cancer prognosis
+
+---
+## Publications
+
+<div class="publications">
+
+  <div class="pub-entry">
+    <span class="badge">npj Precision Oncology</span>
+    <h3>Multimodal analysis suggests differential immuno-metabolic crosstalk in lung squamous cell carcinoma and adenocarcinoma</h3>
+    <p>Brooks P. Leitner, Kevin B. Givechian, Shyryn Ospanova, Aray Beisenbayeva, Katerina Politi, Rachel J. Perry, et al.</p>
+    <p><em>npj Precision Oncology, published 27 January 2022</em></p>
+    <p><a class="btn" href="https://www.nature.com/articles/s41698-021-00248-2" target="_blank">View article</a></p>
+  </div>
+
+  <div class="pub-entry">
+    <span class="badge">IEEE J Biomed Health Inform</span>
+    <h3>A Vaccination Simulator for COVID-19: Effective and Sterilizing Immunization Cases</h3>
+    <p>Aknur Karabay, Askat Kuzdeuov, Shyryn Ospanova, Michael Lewis, Huseyin Atakan Varol</p>
+    <p><em>IEEE Journal of Biomedical and Health Informatics, December 2021</em></p>
+    <p><a class="btn" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9542855" target="_blank">View article</a></p>
+  </div>
+
+  <div class="pub-entry">
+    <span class="badge">PLOS ONE</span>
+    <h3>The impact of variance in carnitine palmitoyltransferase-1 expression on breast cancer prognosis is stratified by clinical and anthropometric factors</h3>
+    <p>Ryan Liu, Shyryn Ospanova, Rachel J. Perry</p>
+    <p><em>PLoS ONE 18(2): e0281252, published 3 February 2023</em></p>
+    <p><a class="btn" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281252" target="_blank">View article</a></p>
+  </div>
+
+</div>
 
 ---
 ## Experience

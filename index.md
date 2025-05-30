@@ -8,42 +8,52 @@ layout: default
   <a href="#work">Experience</a> ·
   <a href="#skills">Skills</a>
 </nav>
-<style>html {
+<style>/* 1. Smooth scrolling for in‐page anchors */
+html {
   scroll-behavior: smooth;
 }
 
-.section-nav {
-  position: sticky;
-  top: 0;
-  z-index: 1000;
+/* 2. Push the page down so content isn't hidden under our fixed bar */
+body {
+  padding-top: 3.5rem; /* match the nav’s height + any border */
+}
 
+/* 3. The fixed, full‐width nav */
+.section-nav {
+  position: fixed;
+  top: 0; left: 0; right: 0;
   display: flex;
   justify-content: center;
-  gap: 1.5rem;
-
-  background: #fff;
+  gap: 2rem;
+  background: #ffffff;
   padding: 0.75rem 1rem;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
   border-bottom: 1px solid #eaeaea;
+  z-index: 1000;
 }
 
+/* 4. Make each link’s whole padded area clickable */
 .section-nav a {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;
   color: #007acc;
   text-decoration: none;
   font-weight: 500;
-  padding: 0.25rem 0.5rem;
   border-radius: 4px;
-  transition: background-color 0.2s, color 0.2s;
+  transition: background-color 0.2s ease, color 0.2s ease;
 }
 
+/* 5. Hover + active states */
 .section-nav a:hover {
-  background-color: #f0f8ff;
+  background-color: rgba(0, 122, 204, 0.1);
 }
 
+.section-nav a:active,
 .section-nav a.active {
+  background-color: rgba(0, 122, 204, 0.2);
   color: #005999;
-  border-bottom: 2px solid #005999;
 }
+</style>
 
 /* Optional: Highlight the current section in nav as you scroll */
 <script>
@@ -65,7 +75,6 @@ layout: default
     activateLink();
   });
 </script>
-</style>
 
 ## Projects {#projects}
 

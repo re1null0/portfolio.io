@@ -113,13 +113,18 @@ Produced the first public curriculum on Neural Networks and Computer Vision (Ope
 *Jun 2021 – Aug 2021*
 
 - Simulated vaccination policies using agent-based modeling to identify the most effective strategies for reducing disease transmission; modeled sterilizing and effective immunization outcomes by adding 4 new SEIR states
-- Published paper in IEEE titled "A Vaccination Simulator for COVID-19: Effective and Sterilizing Immunization Cases"
+- Published paper “[A Vaccination Simulator for COVID-19…](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9542855)”
+
 <details>
   <summary>📄 Preview the paper</summary>
-  <iframe 
-    src="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9542855" 
-    width="100%" height="500px" style="border:1px solid #ccc;">
-  </iframe>
+  <div style="margin-top:1em;">
+    <iframe
+      src="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9542855"
+      width="100%"
+      height="600"
+      style="border:1px solid #ccc;">
+    </iframe>
+  </div>
 </details>
 
 ### Yale School of Medicine | Research Assistant

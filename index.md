@@ -124,7 +124,14 @@ Produced the first public curriculum on Neural Networks and Computer Vision (Ope
 ## Publications
 
 <div class="publications">
-
+  
+<div class="pub-entry">
+    <span class="badge">PLOS ONE</span>
+    <h3>The impact of variance in carnitine palmitoyltransferase-1 expression on breast cancer prognosis is stratified by clinical and anthropometric factors</h3>
+    <p>Ryan Liu, Shyryn Ospanova, Rachel J. Perry</p>
+    <p><em>PLoS ONE 18(2): e0281252, published 3 February 2023</em></p>
+    <p><a class="btn" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281252" target="_blank">View article</a></p>
+  </div>
   <div class="pub-entry">
     <span class="badge">npj Precision Oncology</span>
     <h3>Multimodal analysis suggests differential immuno-metabolic crosstalk in lung squamous cell carcinoma and adenocarcinoma</h3>
@@ -141,17 +148,9 @@ Produced the first public curriculum on Neural Networks and Computer Vision (Ope
     <p><a class="btn" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9542855" target="_blank">View article</a></p>
   </div>
 
-  <div class="pub-entry">
-    <span class="badge">PLOS ONE</span>
-    <h3>The impact of variance in carnitine palmitoyltransferase-1 expression on breast cancer prognosis is stratified by clinical and anthropometric factors</h3>
-    <p>Ryan Liu, Shyryn Ospanova, Rachel J. Perry</p>
-    <p><em>PLoS ONE 18(2): e0281252, published 3 February 2023</em></p>
-    <p><a class="btn" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281252" target="_blank">View article</a></p>
-  </div>
-
 </div>
 
-<style>/* Add to your main stylesheet (e.g. assets/css/main.scss) */
+<style>
 .publications {
   display: grid;
   row-gap: 2rem;

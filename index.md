@@ -297,7 +297,7 @@ Produced the first public curriculum on Neural Networks and Computer Vision (Ope
 </style>
 
 ---
-## Experience {#work}
+## Industry Experience {#work}
 
 ### Cerebra | Applied AI Researcher
 *Aug 2023 – Present*

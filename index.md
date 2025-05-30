@@ -163,7 +163,7 @@ Visualization in simulation shows both the reference segment and MPC-predicted r
 ### Beyond School
 *Python, OpenCV, YOLO*
 
-Produced the first public curriculum on Neural Networks and Computer Vision (OpenCV) for 500+ learners. Designed presentations and devised scripts for over 15 YouTube video-lessons with 7500+ views.
+Produced the first public curriculum on Neural Networks and Computer Vision (OpenCV) in Russian with Kazakh subtitles for 500+ learners. Designed presentations and devised scripts for over 15 YouTube video-lessons with 7500+ views.
 <style>
 .playlist-container {
   display: flex;

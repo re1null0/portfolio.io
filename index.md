@@ -8,6 +8,64 @@ layout: default
   <a href="#work">Experience</a> ·
   <a href="#skills">Skills</a>
 </nav>
+<style>html {
+  scroll-behavior: smooth;
+}
+
+.section-nav {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+
+  background: #fff;
+  padding: 0.75rem 1rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  border-bottom: 1px solid #eaeaea;
+}
+
+.section-nav a {
+  color: #007acc;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.section-nav a:hover {
+  background-color: #f0f8ff;
+}
+
+.section-nav a.active {
+  color: #005999;
+  border-bottom: 2px solid #005999;
+}
+
+/* Optional: Highlight the current section in nav as you scroll */
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const navLinks = document.querySelectorAll('.section-nav a');
+    const sections = Array.from(navLinks).map(a => document.querySelector(a.getAttribute('href')));
+
+    const activateLink = () => {
+      const scrollPos = window.scrollY + 80; // adjust offset to account for nav height
+      sections.forEach((sec, i) => {
+        if (sec.offsetTop <= scrollPos && sec.offsetTop + sec.offsetHeight > scrollPos) {
+          navLinks.forEach(a => a.classList.remove('active'));
+          navLinks[i].classList.add('active');
+        }
+      });
+    };
+
+    window.addEventListener('scroll', activateLink);
+    activateLink();
+  });
+</script>
+</style>
 
 ## Projects {#projects}
 
@@ -128,7 +186,7 @@ Produced the first public curriculum on Neural Networks and Computer Vision (Ope
 - Developed analysis on lung cancer survivability with 94% accuracy; implemented a novel approach to incorporate quantitative and qualitative multivariate analysis using Python and TCGA on 20 Gigabytes PET/CT scans, leading to significant differentiation between lung squamous cell carcinoma and adenocarcinoma
 
 ---
-## Publications {#pub}
+## Publications {#pubs}
 
 <div class="publications">
   

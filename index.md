@@ -1,8 +1,15 @@
 ---
 layout: default
 ---
+<nav class="section-nav">
+  <a href="#projects">Projects</a> ·
+  <a href="#research">Research Experience</a> ·
+  <a href="#pubs">Publications</a> ·
+  <a href="#work">Experience</a> ·
+  <a href="#skills">Skills</a>
+</nav>
 
-## Projects
+## Projects {#projects}
 
 ### Recurrent LidarNet
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/re1null0)
@@ -107,7 +114,7 @@ Produced the first public curriculum on Neural Networks and Computer Vision (Ope
 </div>
 ---
 
-## Research Experience
+## Research Experience {#research}
 
 ### Institute of Smart Systems and Artificial Intelligence | Research Intern
 *Jun 2021 – Aug 2021*
@@ -121,7 +128,7 @@ Produced the first public curriculum on Neural Networks and Computer Vision (Ope
 - Developed analysis on lung cancer survivability with 94% accuracy; implemented a novel approach to incorporate quantitative and qualitative multivariate analysis using Python and TCGA on 20 Gigabytes PET/CT scans, leading to significant differentiation between lung squamous cell carcinoma and adenocarcinoma
 
 ---
-## Publications
+## Publications {#pub}
 
 <div class="publications">
   
@@ -200,7 +207,7 @@ Produced the first public curriculum on Neural Networks and Computer Vision (Ope
 </style>
 
 ---
-## Experience
+## Experience {#work}
 
 ### Cerebra | Applied AI Researcher
 *Aug 2023 – Present*
@@ -224,7 +231,7 @@ Produced the first public curriculum on Neural Networks and Computer Vision (Ope
 
 ---
 
-## Skills
+## Skills {#skills}
 
 **Languages:** Python, R, MATLAB, NoSQL, SQL, HTML/CSS, Java
 

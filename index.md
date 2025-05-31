@@ -244,7 +244,7 @@ Produced the first public curriculum on Neural Networks and Computer Vision (Ope
     <p><a class="btn" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9542855" target="_blank">View article</a></p>
     <!-- Added simulation GIF below the IEEE paper entry -->
     <div style="margin-top: 1rem; text-align: center;">
-      <img src="/assets/img/sim.gif" alt="Simulation preview" style="max-width: 100%; height: auto; border: 1px solid #ccc;" />
+      <img src="/assets/img/simulation.gif" alt="Simulation preview" style="max-width: 100%; height: auto; border: 1px solid #ccc;" />
     </div>
   </div>
 
